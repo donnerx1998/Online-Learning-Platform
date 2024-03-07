@@ -1,0 +1,26 @@
+{
+"name": "dij-jdmv-294j",
+"version": "1.0.0",
+"description": "A platform offering various online courses including video tutorials, live classrooms, and quizzes, suitable for various subjects and skill levels.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/donnerx1998/Online-Learning-Platform.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "donnerx1998",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
